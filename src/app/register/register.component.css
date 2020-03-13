@@ -1,0 +1,21 @@
+form 
+{
+   
+    width: 300px;
+    padding:  20px;
+    height: 250px;
+    margin-left: 40%;
+    box-shadow: 1px 1px 200px #3f51b5;
+    margin-top: 10%;
+    border-radius: 10px;;
+}
+.textcss
+{
+  
+}
+input
+{
+    margin-left: 8px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
